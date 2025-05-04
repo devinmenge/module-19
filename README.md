@@ -9,6 +9,7 @@ Cypress testing was implemented to check different components of the quiz, such 
 ### Executing program
 
 Download code and use npm run test to execute cypress.
+For testing end to end, use npm run start in the root folder to get the server running, and use npm run dev in the client folder for the frontend.
 
 ## Authors
 
