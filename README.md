@@ -6,6 +6,8 @@ A simple quiz appliation with cypress testing for functionality.
 
 Cypress testing was implemented to check different components of the quiz, such as populating elements and navigating correctly.
 
+Demo video: https://drive.google.com/file/d/1arYVBmnWGl6x53VSXYpSUV4jMXu5rAS2/view?usp=drive_link
+
 ### Executing program
 
 Download code and use npm run test to execute cypress.
